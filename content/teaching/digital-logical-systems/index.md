@@ -1,24 +1,16 @@
 ---
 title: Discrete Mathematics for Engineers
 
-event: Undergraduate Course
-event_url: https://www.cse.cuhk.edu.hk/academics/ug-course-list/engg2440/
+course_type: Undergraduate Course
+course_url: https://www.cse.cuhk.edu.hk/academics/ug-course-list/engg2440/
+course_code: ENGG2440
 
-location: Wowchemy HQ
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
-
-summary: ENGG2440
 abstract: 'Set theory, functions, relations, combinatorics, graph theory, algebraic systems, propositional and predicate logic.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-01T13:00:00Z'
-date_end: '2022-06-01T15:00:00Z'
+date:
+date_end:
 all_day: false
 
 # Schedule page publish date (NOT talk date).
