@@ -36,26 +36,26 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice:
+    notice: '© {year} IDEAL. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 
-  time_format: 
-  address_format:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
@@ -96,7 +96,7 @@ features:
       index_name:
       show_logo:
   map:
-    provider: 
+    provider:
     api_key:
     zoom:
 
@@ -112,5 +112,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format:
-  citation_style: 
+  date_format: January 2006
+  citation_style: apa
