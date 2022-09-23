@@ -14,7 +14,7 @@ weight: 20
 
 author: 'admin'
 
-title:
+title: Principle Investigator
 subtitle:
 
 design:
