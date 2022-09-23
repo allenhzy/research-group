@@ -40,11 +40,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: tyho@cse.cuhk.edu.hk
+    link: 'tyho@cse.cuhk.edu.hk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en
-  - icon: delp
+  - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/63/4181.html
   - icon: orcid
