@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
+title:
   Intelligent DEsign Automation Lab
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -14,7 +14,7 @@ design:
   background:
     image: cuhk.jpg
     image_position: center
-    image_size: cover
+    # image_size: cover
     text_color_light: true
   # Add custom styles
 
@@ -22,4 +22,4 @@ design:
 
 <br>
 
-The **Intelligent DEsign Automation Lab(IDEAL)** has been a center of excellence for Artificial Intelligence research, teaching, and practice.
+The **Intelligent DEsign Automation Lab(IDEAL)** has been a center of excellence for Artificial Intelligence research and practice.
