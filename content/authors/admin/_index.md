@@ -65,5 +65,6 @@ user_groups:
   - Principal Investigators
 ---
 
+# About Me
 I am a Professor in the Department of Computer Science and Engineering at CUHK. I'm broadly interested in artificial intelligence, computer engineering and computer theory. 
 
