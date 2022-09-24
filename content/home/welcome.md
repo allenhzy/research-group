@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
+title:
   Intelligent DEsign Automation Lab
 # hero_media: welcome.jpg
 design:
@@ -14,10 +14,10 @@ design:
   columns: '1'
   # Add custom styles
   background:
-    color: 'navy'
+    # color: 'navy'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     media: cuhk.jpg
-    text_color_light: true
+    # text_color_light: true
 ---
 
 <br>
