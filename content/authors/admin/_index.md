@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include artificial intelligence, computer engineering and computer theory.
 
 interests:
-  - Artificial Intelligence
-  - Computer Engineering
-  - Computer Theory
+  # - Artificial Intelligence
+  # - Computer Engineering
+  # - Computer Theory
 
 education:
   # courses:
