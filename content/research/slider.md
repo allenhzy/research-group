@@ -23,6 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
+      url: /research/#ai
       link:
         url: /research/#ai
     - title: Computer Engineering
