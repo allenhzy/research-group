@@ -15,10 +15,10 @@ content:
     exclude_featured: false
     publication_type: ''
     tag: ''
-  offset: 0
+  offset: 10
   order: desc
   page_type: news
 design:
-  view: 2
+  view: 1
   columns: '1'
 ---
