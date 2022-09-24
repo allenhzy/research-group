@@ -22,6 +22,8 @@ main:
   - name: Publications
     url: publication
     weight: 60
+    active: false
   - name: Course
     url: courses
     weight: 70
+    active: false
