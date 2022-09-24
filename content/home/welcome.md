@@ -16,6 +16,7 @@ design:
   background:
     color: 'navy'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    media: cuhk.jpg
     text_color_light: true
 ---
 
