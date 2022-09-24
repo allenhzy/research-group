@@ -15,7 +15,7 @@ design:
     image: ai.jpg
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   # Add custom styles
 
 ---
