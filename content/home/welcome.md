@@ -12,10 +12,10 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    image: back.jpg
+    image: ai.jpg
     image_position: center
     image_size: cover
-    text_color_light: false
+    text_color_light: true
   # Add custom styles
 
 ---
