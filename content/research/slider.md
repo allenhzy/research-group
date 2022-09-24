@@ -7,7 +7,7 @@ headless: true
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: '200px'
-  is_fullscreen: false
+  is_fullscreen: true
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
@@ -23,6 +23,8 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
+      link:
+        url: /#ai
     - title: Computer Engineering
       content: ''
       align: center
@@ -33,7 +35,7 @@ content:
         media: contact.jpg
     - title: Computer Theory
       content: ''
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
