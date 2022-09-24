@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tyho@cse.cuhk.edu.hk'
+    link: 'mailto:tyho@cse.cuhk.edu.hk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en
@@ -54,10 +54,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'tyho@cse.cuhk.edu.hk'
+email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
