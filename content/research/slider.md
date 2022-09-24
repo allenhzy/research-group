@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Artificial Intelligence
-      content: Trustyworthy AI
+      content:
       align: center
       background:
         position: right
@@ -25,6 +25,7 @@ content:
         media: coders.jpg
       url: /research/#ai
       link:
+        text: See More
         url: /research/#ai
     - title: Computer Engineering
       content: ''
@@ -35,6 +36,7 @@ content:
         brightness: 0.7
         media: contact.jpg
       link:
+        text: See More
         url: /research/#computer-engineering
     - title: Computer Theory
       content: ''
@@ -47,6 +49,6 @@ content:
       link:
       #   icon: graduation-cap
       #   icon_pack: fas
-      #   text: Join Us
+        text: See More
         url: /research/#computer-engineering
 ---
