@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: coders.jpg
       link:
-        url: /#ai
+        url: /research/#ai
     - title: Computer Engineering
       content: ''
       align: center
@@ -33,6 +33,8 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
+      link:
+        url: /research/#computer-engineering
     - title: Computer Theory
       content: ''
       align: center
@@ -41,9 +43,9 @@ content:
         color: '#333'
         brightness: 0.5
         media: welcome.jpg
-      # link:
+      link:
       #   icon: graduation-cap
       #   icon_pack: fas
       #   text: Join Us
-      #   url: ../contact/
+        url: /research/#computer-engineering
 ---
