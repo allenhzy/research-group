@@ -12,9 +12,9 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    image: cuhk.jpg
+    image: back.jpg
     image_position: center
-    image_size: contain
+    image_size: cover
     text_color_light: false
   # Add custom styles
 
