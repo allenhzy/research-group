@@ -66,5 +66,8 @@ user_groups:
 ---
 
 # About Me
-I am a Professor in the Department of Computer Science and Engineering at CUHK. I'm broadly interested in artificial intelligence, computer engineering and computer theory. 
-
+I am a Professor in the Department of Computer Science and Engineering at CUHK. 
+I received my Ph.D. in Electrical Engineering from National Taiwan University in 2005. My research interests include several areas of computing and emerging technologies, especially in design automation of microfluidic biochips.
+I have been the recipient of the Invitational Fellowship of the Japan Society for the Promotion of Science (JSPS), the Humboldt Research Fellowship by the Alexander von Humboldt Foundation, the Hans Fischer Fellowship by the Institute of Advanced Study of the Technische Universität München, and the International Visiting Research Scholarship by the Peter Wall Institute of Advanced Study of the University of British Columbia.
+I am a recipient of the Best Paper Awards at the VLSI Test Symposium (VTS) in 2013 and IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems in 2015.
+Currently, I serve as the VP Technical Activities of IEEE CEDA, and the Executive Committee of ASP-DAC and ICCAD. 
