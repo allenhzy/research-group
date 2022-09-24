@@ -14,7 +14,7 @@ design:
   background:
     image: cuhk.jpg
     image_position: center
-    image_size: contain
+    image_size: actual
     text_color_light: true
   # Add custom styles
 
